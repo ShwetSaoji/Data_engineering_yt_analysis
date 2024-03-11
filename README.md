@@ -2,7 +2,7 @@
 
 <strong>Project Overview:</strong> <br>
 An end-to-end data engineering project, which deals with concepts such as Data Ingestion, Data Lake, AWS Cloud, ETL Design and Reporting.
-One of the mojor goal of pursuing this project is to get familiarized with the AWS cloud services, and to understand how data travels from source to final analytical dashboards. 
+The major goal of pursuing this project is to get familiarized with the AWS cloud services, and to understand how data travels from source to final analytical dashboards. 
 
 <strong>Technologies Used:</strong> <br>
 Amazon Web Services: IAM, S3, CLI, Glue Catalog, Glue Crawler, Athena, Lambda, QuickSight, Apache Parquet <br>
